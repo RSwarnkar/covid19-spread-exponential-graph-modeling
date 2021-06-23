@@ -1,0 +1,1 @@
+Primitive attempt at curve fitting
